@@ -1,2 +1,2 @@
 # Blog-Project
-website add blog 
+Create new blogs and upload on the website.
